@@ -2,6 +2,8 @@
 
 include 'Tools.php';
 
+
+
 $email = $_GET['email'];
 $password = $_GET['senha'];
 
